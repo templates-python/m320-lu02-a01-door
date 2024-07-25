@@ -1,0 +1,38 @@
+[
+  {
+    "name": "test_initial",
+    "function": "test_initial",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_get_set_color",
+    "function": "test_get_set_color",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_door_open",
+    "function": "test_door_open",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_door_close",
+    "function": "test_door_close",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_door_locking",
+    "function": "test_door_locking",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_door_unlock",
+    "function": "test_door_unlock",
+    "timeout": 10,
+    "points": 1
+  }
+]
