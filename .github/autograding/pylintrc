@@ -8,11 +8,11 @@
 [MAIN]
 
 # Files or directories to be skipped. They should be base names, not paths.
-ignore=third_party
+ignore=third_party,venv
 
 # Files or directories matching the regex patterns are skipped. The regex
 # matches against base names, not paths.
-ignore-patterns='*_test.py'
+ignore-patterns=.*_test.py
 
 # Pickle collected data for later comparisons.
 persistent=no
