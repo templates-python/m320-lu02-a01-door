@@ -11,7 +11,7 @@ permissions:
 jobs:
   grading:
     if: ${{ !contains(github.actor, 'classroom') }}
-    uses: BZZ-Commons/pygrader/.github/workflows/py_autograding.yml@main
+    uses: BZZ-Commons/pygrader/.github/workflows/py_autograding.yml@suma
     #with:
     #  MOODLE: true  # CHANGE true=export grade to moodle
     secrets: inherit
